@@ -1,0 +1,16 @@
+{
+  "name": "fifa-app",
+  "version": "1.0.0",
+  "description": "* Find an undocumented API on fifa website * Show latest scores for the current game  * Play a sound if a goal is made",
+  "main": "App.vue",
+  "dependencies": {
+    "@vue/cli": "^3.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "vue serve App.vue"
+  },
+  "keywords": [],
+  "author": "w3cj <cj@null.computer>",
+  "license": "MIT"
+}
